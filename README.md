@@ -1,0 +1,13 @@
+Requisitos:
+    - Decidir pré processamento dos dados
+        - Dados em string substitídos por dados numéricos
+    - Decidir as redes a serem utilizadas
+        - MLP
+        - Regressão Linear
+        - K-means
+    - Decidir as métricas a serem utilizadas para avaliar o desempenho das redes
+        - Acurácea
+        - Matrix de confusão
+        - f1
+    - Testar diferentes topologias para o MLP
+    - Testar diferentes formas de adaptação do dados(Normalizar ou padronizar)
